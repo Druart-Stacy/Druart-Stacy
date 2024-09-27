@@ -3,7 +3,7 @@
 <img src="img/I-am.jpg"/>
 
 
-📖actuelement en formation chez BeCode pour devenir développeuse frond-end passionnée par le code et la technologie. <br>
+📖Actuellement en formation chez BeCode pour devenir développeuse front-end, je suis passionnée par le code et la technologie. <br>
 
 
 
