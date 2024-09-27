@@ -36,7 +36,6 @@
     </table>
 </div>
 
-## 🔗 Mes projets préferes
 ## 🔗 Me contacter 
 <a href="mailto:druartstacy@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=63490&format=png&color=FD7E14" alt="Icone Mail" />
