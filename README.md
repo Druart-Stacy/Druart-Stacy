@@ -2,8 +2,7 @@
 ## 🌟 À propos de moi
 <img src="img/I-am.jpg"/>
 
-
-📖Actuellement en formation chez BeCode pour devenir développeuse front-end, je suis passionnée par le code et la technologie. <br>
+📖Actuellement en recherche de nouvelles opportunités dans le domaine du développement front-end, je suis passionnée par le code et la technologie. <br>
 
 
 
@@ -22,6 +21,7 @@
                 <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/> <br>
                 <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000"/>
                 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
+                <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000"/>
             </td>
             <td>
                 <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"/>  
